@@ -6,7 +6,7 @@
 
 - **[Expo](https://expo.dev/)** - Universal React Native framework
 - **[Expo Router](https://docs.expo.dev/router/introduction/)** - File-based routing for React Native
-- **[Bun](https://bun.sh/)** - Fast package manager and test runner
+- **[Bun](https://bun.sh/)** - The designated package manager and test runner for this template.
 - **[Lingui](https://lingui.dev/)** - Internationalization (i18n) framework
 - **[NativeWind](https://www.nativewind.dev/)** - Tailwind CSS for React Native
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety
@@ -106,3 +106,7 @@ bun lint
 # Auto-fix linting and formatting issues
 bun format
 ```
+
+## 🏛️ Architecture and Build Details
+
+For an analysis of how this project could be supported by the Bazel build system, see the requirements document at [`bazel-requirements.md`](./bazel-requirements.md).
