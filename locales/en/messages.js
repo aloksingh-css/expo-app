@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"A5+IW1\":[\"Built with Expo, Lingui, NativeWind, and Bun\"],\"LDYVWy\":[\"This is a minimal Expo template with modern tooling.\"],\"c3b0B0\":[\"Get Started\"],\"mY42CM\":[\"Hello World\"],\"uyJsf6\":[\"About\"],\"yVHU/Q\":[\"Welcome to the minimal Expo app template\"]}")};

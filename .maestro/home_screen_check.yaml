@@ -1,0 +1,8 @@
+appId: com.example.expominimal
+---
+- launchApp
+- waitForAnimationToEnd
+- assertVisible: "Hello World"
+- assertVisible: "Built with Expo, Lingui, NativeWind, and Bun"
+- assertVisible: "Get Started"
+

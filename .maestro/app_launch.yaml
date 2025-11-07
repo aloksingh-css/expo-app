@@ -1,0 +1,6 @@
+appId: com.example.expominimal
+---
+- launchApp
+- assertVisible: "Hello World"
+- assertVisible: "Welcome to the minimal Expo app template"
+
